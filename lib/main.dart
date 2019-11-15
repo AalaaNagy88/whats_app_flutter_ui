@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget{
         accentColor: new Color(0xff25d366)
       ),
       home: new whatsAppHome(),
+      debugShowCheckedModeBanner: false,
     );
   }
 
